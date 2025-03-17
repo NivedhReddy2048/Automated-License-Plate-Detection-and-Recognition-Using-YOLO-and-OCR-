@@ -22,6 +22,8 @@ pip install easyocr pytesseract matplotlib
 
 📂 Dataset Setup
 
+Dataset:
+https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset
 Upload your dataset ZIP file to Colab.
 
 Extract it using:
